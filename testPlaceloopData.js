@@ -13,8 +13,8 @@ let hoursToAdd = { begin: '19:00', end: '23:00' };
 let openingHours = {
 
     monday: [
-        { begin: '10:00', end: '12:00' },
         { begin: '13:00', end: '18:00' },
+        { begin: '10:00', end: '12:00' },
     ],
     tuesday: [
         { begin: '10:00', end: '12:00' },
