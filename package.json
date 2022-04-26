@@ -1,0 +1,7 @@
+{
+    "name": "testplaceloop",
+    "version": "1.0.0",
+    "scripts": {
+      "testPlaceloop1": "node testPlaceloop1.js"
+    }
+}
