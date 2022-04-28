@@ -2,6 +2,7 @@
     "name": "testplaceloop",
     "version": "1.0.0",
     "scripts": {
-      "testPlaceloop1": "node testPlaceloop1.js"
+      "testPlaceloop1": "node testPlaceloop1.js",
+      "testPlaceloop2": "node testPlaceloop2.js"
     }
 }
