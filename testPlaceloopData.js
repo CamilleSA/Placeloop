@@ -8,7 +8,7 @@ let daysSelected = {
     sunday: false
 };
 
-let hoursToAdd = { begin: '19:00', end: '23:00' };
+let hoursToAdd = { begin: '11:00', end: '03:00' };
 
 let openingHours = {
 
